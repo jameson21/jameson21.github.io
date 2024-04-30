@@ -2,4 +2,6 @@
 
 ## Mechanics_GTR4_jam_v2.4
 
+<img src="Mechanics_GTR4_jam_v2.4_preview_en.png" width="200">
 <img src="Mechanics_GTR4_jam_v2.4.zpk_qr-code.png" width="200">
+
