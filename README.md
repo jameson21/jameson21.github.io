@@ -1,4 +1,5 @@
 # My watchfaces for GTR4
+[watchfaces](/wf/README.md)
 
 ## Mechanics_GTR4_jam_v2.4
 
