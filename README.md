@@ -84,3 +84,36 @@
 ## Anicorn_K452_Nemesis 1.2.0
 
 <img src="/D3M1TSUR1_GTR4_wf/D3M1TSUR1_Anicorn_K452_Nemesis-1.2.0.png" width="300"> <img src="/D3M1TSUR1_GTR4_wf/D3M1TSUR1_Anicorn_K452_Nemesis-1.2.0_qr-code.png" width="200">
+
+
+
+***
+# monarch793 watchfaces for GTR4
+***
+## Garmin Marq 2 Red
+
+<img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Red_Preview.png" width="300"> <img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Red_QR-Code.png" width="200">
+
+
+
+***
+## Garmin Marq 2 Lime
+
+<img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Lime_Preview.png" width="300"> <img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Lime_QR-Code.png" width="200">
+
+
+
+***
+## Garmin Marq 2 Carbon Cyan
+
+<img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Carbon_Cyan_Preview.png" width="300"> <img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Carbon_Cyan_QR-Code.png" width="200">
+
+
+
+***
+## Garmin Marq 2 Carbon Lime
+
+<img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Carbon_Lime_Preview.png" width="300"> <img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Carbon_Lime_QR-Code.png" width="200">
+
+
+
