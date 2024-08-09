@@ -117,3 +117,8 @@
 
 
 
+***
+## Garmin Marq 2 Carbon Red
+
+<img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Carbon_Red_Preview.png" width="300"> <img src="/monarch793_GTR4_wf/monarch793_Garmin_Marq_2_Carbon_Red_QR-Code.png" width="200">
+
