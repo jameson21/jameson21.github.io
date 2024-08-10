@@ -15,6 +15,7 @@
 1. Year display is now made with the font "Eurostile URW Bold".
 
 <img src="/jam_wf/Mechanics_GTR4_jam_v4.0_preview_en.png" width="200"> <img src="/jam_wf/Mechanics_GTR4_jam_v4.0_qr-code.png" width="200">
+
 ***
 
 
