@@ -16,6 +16,10 @@
 
 <img src="/jam_wf/Mechanics_GTR4_jam_v4.0_preview_en.png" width="200"> <img src="/jam_wf/Mechanics_GTR4_jam_v4.0_qr-code.png" width="200">
 
+
+## Metal_Frenzy_jam_v1
+
+<img src="/jam_wf/Metal_Frenzy_jam_v1_Preview.png" width="200"> <img src="/jam_wf/Metal_Frenzy_jam_v1_QR-Code.png" width="200">
 ***
 
 
