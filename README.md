@@ -20,6 +20,13 @@
 ## Metal_Frenzy_jam_v1
 
 <img src="/jam_wf/Metal_Frenzy_jam_v1_Preview.png" width="200"> <img src="/jam_wf/Metal_Frenzy_jam_v1_QR-Code.png" width="200">
+
+## Metal_Frenzy_jam_v1.1
+1. Slightly changed the colors of the center elements.
+2. Reduced the thinness of the lines in the center elements
+
+<img src="/jam_wf/Metal_Frenzy_jam_v1.1_Preview.png" width="200"> <img src="/jam_wf/Metal_Frenzy_jam_v1.1_QR-Code.png" width="200">
+
 ***
 
 
