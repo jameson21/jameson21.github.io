@@ -27,11 +27,18 @@
 
 <img src="/jam_wf/Metal_Frenzy_jam_v1.1_Preview.png" width="200"> <img src="/jam_wf/Metal_Frenzy_jam_v1.1_QR-Code.png" width="200">
 
+
 ## Metal_Frenzy_jam_v1.2
 1. Slightly reduced the brightness of the icons
 2. Transferred the background of the charge level and day of the week to the general background
 
 <img src="/jam_wf/Metal_Frenzy_jam_v1.2_Preview.png" width="200"> <img src="/jam_wf/Metal_Frenzy_jam_v1.2_QR-Code.png" width="200">
+
+
+## Metal_Frenzy_jam_v1.3
+1. Slightly increased the brightness of the icons in the center
+
+<img src="/jam_wf/Metal_Frenzy_jam_v1.3_Preview.png" width="200"> <img src="/jam_wf/Metal_Frenzy_jam_v1.3_QR-Code.png" width="200">
 ***
 
 
