@@ -39,6 +39,12 @@
 1. Slightly increased the brightness of the icons in the center
 
 <img src="/jam_wf/Metal_Frenzy_jam_v1.3_Preview.png" width="200"> <img src="/jam_wf/Metal_Frenzy_jam_v1.3_QR-Code.png" width="200">
+
+## Metal_Frenzy_jam_v1.4
+1. Replaced the weather icons with 40x40 icons
+2. Redrew icons for steps, distance, sunrise, sunset, ohigenation, heart rate, charge. Based on the Amazfit Zepp reference
+
+<img src="/jam_wf/Metal_Frenzy_jam_v1.4_Preview.png" width="200"> <img src="/jam_wf/Metal_Frenzy_jam_v1.4_QR-Code.png" width="200">
 ***
 
 
